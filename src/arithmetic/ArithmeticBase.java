@@ -16,7 +16,7 @@ import java.util.Scanner;
 public class ArithmeticBase 
 {
  public double x,y;
-    double calculate(double x, double y) 
+    double calculate(double x, double y ) 
         {
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter arithmetic operation to Perform: ");
